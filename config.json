@@ -1,0 +1,9 @@
+{
+	"objectsPath": "./objects",
+	"dataPath": "./observations",
+	"defaults": {
+		"maxPast": "10 years",
+		"maxFuture": "10 years",
+		"itemCount": 20
+	}
+}
